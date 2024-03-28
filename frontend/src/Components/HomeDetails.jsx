@@ -1,7 +1,7 @@
 const HomeDetail = ()=>{
     return(
         <>
-        <h1>Hello This is Testing </h1>
+        <h1>Hello This is Testing page </h1>
         </>
     )
 }
